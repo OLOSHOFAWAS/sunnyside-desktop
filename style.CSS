@@ -8,6 +8,7 @@ body {
 	background-image:url("images/PBD.svg");
 	background-color: hsl(225, 100%, 94%);
 	background-repeat: no-repeat;
+	background-position: cover;
 }
 main {
 	background-color: hsl(0, 0%, 100%);
