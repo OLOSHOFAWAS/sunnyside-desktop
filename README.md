@@ -1,5 +1,6 @@
 # Frontend Mentor - Order summary card
  I added some update
+ Additional update to the readme instruction
 ![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
